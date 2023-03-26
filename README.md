@@ -18,13 +18,3 @@ To run the Python files in this repository, navigate to the directory where you 
 Copy code
 python filename.py
 Replace filename with the name of the Python file you want to run.
-
-Files
-This repository contains the following Python files:
-
-hello_world.py: This file prints "Hello, world!" to the console.
-variables.py: This file demonstrates how to declare and use variables in Python.
-operators.py: This file demonstrates how to use arithmetic and comparison operators in Python.
-lists.py: This file demonstrates how to create and manipulate lists in Python.
-strings.py: This file demonstrates how to manipulate strings in Python.
-functions.py: This file demonstrates how to define and call functions in Python.
