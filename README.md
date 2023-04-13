@@ -5,7 +5,7 @@ This repository contains basic Python files that demonstrate my foundational und
 Installation
 To use the files in this repository, you will need to have Python 3 installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/.
 
-Once you have Python installed, you can clone this repository using Git. Open a terminal or command prompt and enter the following command:
+Once you have Python installed, you can clone this repository using Git. Open a terminal or command prompt and enter the following command: python3 file_name (for MacOS/Linux) or python file_name (for Windows)
 
 bash
 Copy code
